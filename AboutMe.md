@@ -7,7 +7,7 @@ Indonesia
 
 English
 
-- 👋 Hi, my name is Arya Azhara Zaini ( @Arya Azhara Zaini )
+- 👋 Hi, my name is Arya Azhara Zaini ( @AryaAzharaZaini )
 - 👀 I’m interested in things about technology and japanese culture
 - 🌱 I’m just start to learn Python language
 - 📫 You can reach me via Twitter and Discord
